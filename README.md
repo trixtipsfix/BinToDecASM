@@ -1,2 +1,2 @@
 # BinToDecASM
-Binary to Decimal Conversion using Assemby Language
+Binary to Decimal Conversion using Assembly Language
